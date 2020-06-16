@@ -1,3 +1,5 @@
-# Statistical causal mediation analysis made easy
+# Statistical causal inference made easy
 
-The ultimate mediation analysis package that does the least biased estimation (still biased) based on all our lessons learnt in various projects.
+The ultimate causal inference package that does the least biased estimation (still biased) based on all our lessons learnt in various projects
+* causal inference of total effect
+* causal mediation analysis
